@@ -1,0 +1,42 @@
+[
+    {
+        "annotation": "",
+        "comment": "",
+        "file": "test",
+        "id": "test_1",
+        "lines": [
+            0,
+            0
+        ],
+        "main_pos": [
+            "pos",
+            "pos",
+            "pos",
+            "pos"
+        ],
+        "main_lemmas": [
+            "lem",
+            "lem",
+            "lem",
+            "lem"
+        ],
+        "main_tokens": [
+            "tok",
+            "tok",
+            "tok",
+            "tok"
+        ],
+        "phrase_ids": [
+            0,
+            0
+        ],
+        "score": 8.155627012944288,
+        "sentence": "Das ist ein Testsatz.",
+        "token_ids": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+
